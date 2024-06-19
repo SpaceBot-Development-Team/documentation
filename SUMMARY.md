@@ -1,4 +1,4 @@
-# Table of contents
+# Contenidos
 
 * [🏠 Introducción](README.md)
 
